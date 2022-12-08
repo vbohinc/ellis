@@ -1,6 +1,6 @@
 backports_abc==0.5
 backports.ssl_match_hostname==3.5.0.1
-certifi==2017.4.17
+certifi==2022.12.7
 msgpack-python==0.4.6
 MySQL-python==1.2.5
 phonenumbers==7.1.1
